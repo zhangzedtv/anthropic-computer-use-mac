@@ -29,8 +29,8 @@
 1. Clone the repository and navigate to it:
 
 ```bash
-git clone https://github.com/deedy/mac_computer_use.git
-cd mac_computer_use
+git clone https://github.com/zhangzedtv/anthropic-computer-use-mac.git
+cd anthropic-computer-use-mac
 ```
 
 2. Create and activate a virtual environment:
